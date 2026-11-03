@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/Patient-dashboard/static/js/main.b8e88ac3.js",
+    "main.js": "/Patient-dashboard/static/js/main.e996791a.js",
     "index.html": "/Patient-dashboard/index.html",
-    "main.b8e88ac3.js.map": "/Patient-dashboard/static/js/main.b8e88ac3.js.map"
+    "main.e996791a.js.map": "/Patient-dashboard/static/js/main.e996791a.js.map"
   },
   "entrypoints": [
-    "static/js/main.b8e88ac3.js"
+    "static/js/main.e996791a.js"
   ]
 }
