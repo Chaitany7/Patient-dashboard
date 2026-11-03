@@ -32,7 +32,7 @@ body {
 
 @font-face {
     font-family: 'Manrope';
-    src: url(`${process.env.PUBLIC_URL}/Assets/Fonts/Manrope/Manrope-VariableFont_wght.ttf`) format('truetype');
+    src: url('/Patient-dashboard/Assets/Fonts/Manrope/Manrope-VariableFont_wght.ttf') format('truetype');
 }
 
 .widgets-navbar {
