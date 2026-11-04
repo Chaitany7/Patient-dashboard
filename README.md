@@ -2,6 +2,7 @@
 # Patient Dashboard
 
 A patient diagnosis dashboard built using React.js.
+
 View live website: https://chaitany7.github.io/Patient-dashboard/
 
 ## Technologies Used
